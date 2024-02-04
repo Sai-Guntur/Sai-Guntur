@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
- <a href="www.linkedin.com/in/ram-narshimha-raju-535469197" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
- <a href="https://www.hackerrank.com/ram7767" target="blank"> <img src="https://img.shields.io/badge/Hackerrank-lightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/></a>
- <a href="https://leetcode.com/ram7767/" target="blank"> <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/></a>
+ <a href="https://www.linkedin.com/in/sai-sree-guntur-03b595225" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
+ <!-- <a href="https://www.hackerrank.com/ram7767" target="blank"> <img src="https://img.shields.io/badge/Hackerrank-lightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/></a> -->
+ <a href="https://leetcode.com/saisree_guntur/" target="blank"> <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/></a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sai-Gutut</h1>
-<h3 align="center">A passionate mobile developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Sai-Gututr</h1>
+<h3 align="center">A passionate Front-End and Mobile developer from India.</h3>
 
 
 <p align="center"> 
@@ -68,16 +68,23 @@
   </a>&nbsp;         
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"    alt="js" width="40" height="40"/>      
-  </a>  
+  </a>&nbsp;
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"    alt="js" width="40" height="40"/>      
+  </a>&nbsp;
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="js" width="40" height="40"/>      
+  </a>
+ 
             
   </p>
 
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [iOS projects]
+- 🔭 I’m currently working on Front-End and ios Projects.
 
-- 🌱 I’m currently learning **Flutter, SwiftUI, SwiftData, AI, Deep-Learning**
+- 🌱 I’m currently learning **Flutter, SwiftUI, SwiftData, AI, Deep-Learning, MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://Sai-Guntur.github.io/Sai-Guntur/](https://Sai-Guntur.github.io/Sai-Guntur/)
 
